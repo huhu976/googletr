@@ -19,16 +19,16 @@ proxies:
   - {name: 🇭🇰 hk1, server: 47.76.162.143, port: 51371, type: vmess, uuid: e9e922a8-c5fc-4db4-ef69-b739ae8f084b, alterId: 0, cipher: auto, tls: false}
   - {name: 🇭🇰 HK2, server: 47.76.143.179, port: 21862, type: vmess, uuid: ea51ab9b-5206-4e82-a228-7b8e05b7f4c5, alterId: 0, cipher: auto, tls: false}
 
-  - {name: 土耳其1, server: 103.255.208.241, port: 9088, type: socks5, username: 0deb2de4-4e71edf4-63430d, password: wifi-tr---}
-  - {name: 土耳其2, server: 103.255.208.241, port: 9088, type: socks5, username: 0deb2de4-4e71edf4-9d9aeb, password: wifi-tr---}
-  - {name: 土耳其3, server: 103.255.208.241, port: 9088, type: socks5, username: 0deb2de4-4e71edf4-e22293, password: wifi-tr---}
-  - {name: 土耳其4, server: 103.255.208.241, port: 9088, type: socks5, username: 0deb2de4-4e71edf4-481470, password: wifi-tr---}
-  - {name: 土耳其5, server: 103.255.208.241, port: 9088, type: socks5, username: 0deb2de4-4e71edf4-1093ee, password: wifi-tr---}
-  - {name: 土耳其6, server: 103.255.208.241, port: 9088, type: socks5, username: 0deb2de4-4e71edf4-a2fbdb, password: wifi-tr---}
-  - {name: 土耳其7, server: 103.255.208.241, port: 9088, type: socks5, username: 0deb2de4-4e71edf4-cfaba0, password: wifi-tr---}
-  - {name: 土耳其8, server: 103.255.208.241, port: 9088, type: socks5, username: 0deb2de4-4e71edf4-1e3c30, password: wifi-tr---}
-  - {name: 土耳其9, server: 103.255.208.241, port: 9088, type: socks5, username: 0deb2de4-4e71edf4-f4993c, password: wifi-tr---}
-  - {name: 土耳其10, server: 103.255.208.241, port: 9088, type: socks5, username: 0deb2de4-4e71edf4-0d6ffd, password: wifi-tr---}
+  - {name: 土耳其1, server: 103.255.208.241, port: 10663, type: socks5, username: 0deb2de4-4e71edf4-63430d, password: wifi-tr---}
+  - {name: 土耳其2, server: 103.255.208.241, port: 10663, type: socks5, username: 0deb2de4-4e71edf4-9d9aeb, password: wifi-tr---}
+  - {name: 土耳其3, server: 103.255.208.241, port: 10663, type: socks5, username: 0deb2de4-4e71edf4-e22293, password: wifi-tr---}
+  - {name: 土耳其4, server: 103.255.208.241, port: 10663, type: socks5, username: 0deb2de4-4e71edf4-481470, password: wifi-tr---}
+  - {name: 土耳其5, server: 103.255.208.241, port: 10663, type: socks5, username: 0deb2de4-4e71edf4-1093ee, password: wifi-tr---}
+  - {name: 土耳其6, server: 103.255.208.241, port: 10663, type: socks5, username: 0deb2de4-4e71edf4-a2fbdb, password: wifi-tr---}
+  - {name: 土耳其7, server: 103.255.208.241, port: 10663, type: socks5, username: 0deb2de4-4e71edf4-cfaba0, password: wifi-tr---}
+  - {name: 土耳其8, server: 103.255.208.241, port: 10663, type: socks5, username: 0deb2de4-4e71edf4-1e3c30, password: wifi-tr---}
+  - {name: 土耳其9, server: 103.255.208.241, port: 10663, type: socks5, username: 0deb2de4-4e71edf4-f4993c, password: wifi-tr---}
+  - {name: 土耳其10, server: 103.255.208.241, port: 10663, type: socks5, username: 0deb2de4-4e71edf4-0d6ffd, password: wifi-tr---}
   - {name: 土耳其11, server: 103.255.208.241, port: 8088, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-tr_session-04pYXHsN}
   - {name: 土耳其12, server: 103.255.208.241, port: 8088, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-tr_session-2SQV9ZPb}
   - {name: 土耳其13, server: 103.255.208.241, port: 8088, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-tr_session-G657BgWh}
