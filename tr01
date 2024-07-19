@@ -35,6 +35,12 @@ proxies:
   - {name: 土耳其14, server: 103.255.208.241, port: 8088, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-tr_session-7BMyJFSX}
   - {name: 土耳其15, server: 103.255.208.241, port: 8088, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-tr_session-cX96N7ZP}
 
+  - {name: 尼日1, server: 103.255.208.241, port: 8088, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-twh8Tnlb}
+  - {name: 尼日2, server: 103.255.208.241, port: 8088, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-3TVu4IpE}
+  - {name: 尼日3, server: 103.255.208.241, port: 8088, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-V6QIBUcy}
+  - {name: 尼日4, server: 103.255.208.241, port: 8088, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-kxBmH2fd}
+  - {name: 尼日5, server: 103.255.208.241, port: 8088, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-ng_session-ysQ423nv}
+
 proxy-providers:
           机场:
             type: http
@@ -67,6 +73,13 @@ proxy-groups:
       - 土耳其13
       - 土耳其14
       - 土耳其15
+
+      - 尼日1
+      - 尼日2
+      - 尼日3
+      - 尼日4
+      - 尼日5
+
 
   - name: Proxies
     type: select
